@@ -1,2 +1,2 @@
 # A-Recursive-Function
-f(0) = 1
+Idea source: https://atcoder.jp/contests/abc273/tasks/abc273_a
